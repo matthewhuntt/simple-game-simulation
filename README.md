@@ -1,5 +1,4 @@
 # simple-game-simulation
-Simulation of a simple die-based game between 2 players
 
 The program die_game.py implements the following simple die-based game:
 
